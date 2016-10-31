@@ -8,3 +8,7 @@ I'm not only scientist, mathematician, engineer, design thinker and core innovat
 I have been in software development since mid-year of 2001. During these years of my work, I have been developed several projects for companies as well as open-source(s); and list is going-on...
 
 This is a list of <i>open source</i> projects I have <i>created, maintained or actively contributed</i> to:—
+
+## Personal
+- [iamprabhat](https://github.com/iamprabhat/iamprabhat) (author) — My personal homepage.
+- [writing](https://github.com/iamprabhat/Writing) (author) — Firing my neurons to — think, do or create something; sometimes I'm writing articles.
