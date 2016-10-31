@@ -13,3 +13,6 @@ This is a list of <i>open source</i> projects I have <i>created, maintained or a
 - [iamprabhat](https://github.com/iamprabhat/iamprabhat) (author) — My personal homepage.
 - [writing](https://github.com/iamprabhat/Writing) (author) — Firing my neurons to — think, do or create something; sometimes I'm writing articles.
 - [vitaé](https://github.com/iamprabhat/Vitae) (author) — My personal Curriculum Vitaé.
+
+## Academic
+- [capstone](https://github.com/iamprabhat/Capstone) (author) — Capstone®: A Next-Word Prediction Application.
