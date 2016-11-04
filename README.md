@@ -18,3 +18,4 @@ This is a list of <i>open source</i> projects I have <i>created, maintained or a
 - [capstone](https://github.com/iamprabhat/Capstone) (author) — Capstone®: A Next-Word Prediction Application.
 - [d3-start-up](https://github.com/iamprabhat/d3-start-up) (author) — d3-start-up®: A ready to go scaffolding to work on d3.js.
 - [d3-house-constraint](https://github.com/iamprabhat/d3-house-constraint) (author) — d3-house-constraint®: Why young people can't buy houses anymore?
+- [d3-reactive-R](https://github.com/iamprabhat/d3-reactive-r) (author) — d3-reactive-R®: A reactive functionality with D3 and R + Shiny.
