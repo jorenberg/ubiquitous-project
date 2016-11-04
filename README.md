@@ -19,3 +19,4 @@ This is a list of <i>open source</i> projects I have <i>created, maintained or a
 - [d3-start-up](https://github.com/iamprabhat/d3-start-up) (author) — d3-start-up®: A ready to go scaffolding to work on d3.js.
 - [d3-house-constraint](https://github.com/iamprabhat/d3-house-constraint) (author) — d3-house-constraint®: Why young people can't buy houses anymore?
 - [d3-reactive-R](https://github.com/iamprabhat/d3-reactive-r) (author) — d3-reactive-R®: A reactive functionality with D3 and R + Shiny.
+- [d3-smartphone-walking](https://github.com/iamprabhat/d3-smartphone-walking) (author) — d3-smartphone-walking®: Visualizing walking patterns using smartphone accelerometers.
