@@ -16,3 +16,4 @@ This is a list of <i>open source</i> projects I have <i>created, maintained or a
 
 ## Academic
 - [capstone](https://github.com/iamprabhat/Capstone) (author) — Capstone®: A Next-Word Prediction Application.
+- [d3-start-up](https://github.com/iamprabhat/d3-start-up) (author) — d3-start-up®: A ready to go scaffolding to work on d3.js.
